@@ -27,7 +27,9 @@ Aplikasi Rental Kendaraan merupakan aplikasi berbasis Java untuk mengelola data 
 ![Detail kendaraan](screenshots/detail-kendaraan.png)
 
 ## Catatan
-Dokumen yang diberikan memuat screenshot penambahan kendaraan jenis mobil. Screenshot proses penambahan kendaraan jenis motor belum terlihat pada dokumen. Tambahkan screenshot tersebut agar seluruh persyaratan dokumentasi terpenuhi.
+Dokumen yang diberikan memuat screenshot penambahan kendaraan jenis mobil. Screenshot proses penambahan kendaraan jenis motor belum terlihat pada dokumen. Tambahkan screenshot tersebut agar seluruh persyaratan dokumentasi terpenuhi. 
+<img width="677" height="452" alt="tambah-mobil" src="https://github.com/user-attachments/assets/d47850e5-21aa-448e-b19d-06e3bebd1cb2" />
+
 
 # UTS-PEMROGRAMAN2---MAHESWARA-PUWA-HADI-GAUTAMA--25183207039
 PROJEK PEMROGRAMAN2_UTS
